@@ -1,4 +1,3 @@
-
 # Noroff Workflow Test Project
 
 A web application for venue management, featuring authentication, venue listings, and user-friendly UI built with Tailwind CSS.
